@@ -1,5 +1,5 @@
 # Raytracing in one week
-Curso de Raytracing em C++: https://raytracing.github.io/books/RayTracingInOneWeekend.html 
+Curso de Raytracing (geração de imagens por traçado de raios) em C++: https://raytracing.github.io/books/RayTracingInOneWeekend.html 
 
 Final image: 1200px; Ratio 3:2; Samples/pixel: 500; Depth ray tracing: 50; Render time: ~ 01:10:00
 
